@@ -15,12 +15,6 @@ If applicable, add screenshots to show the issue.
 
 **Additional info**  
 Add any other useful information. For example: OS, java version, client version.
-
-<details> 
-  <summary><strong>Crash report</strong></summary>
  
-```
-Paste your crash report between the ``` if applicable.
-```
-
-</details>
+**⚠️ Disclaimer:** If this bug causes a crash, please save your crash report so, if asked, you can provide it to help us fix the issue.  
+Please do **NOT** paste or upload them to this github.
